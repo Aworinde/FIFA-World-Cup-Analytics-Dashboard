@@ -3,7 +3,7 @@
 ## Overview
 This project showcases an interactive **FIFA World Cup Analytics Dashboard** built using **Power BI**. It provides a comprehensive analysis of historical World Cup data, including matches, goals, teams, spectators, and performance trends over time.
 
-The dashboard transforms raw football data into meaningful insights to support storytelling, trend analysis, and decision-making—demonstrating strong **data cleaning, modeling, and visualization skills**.
+The dashboard transforms raw football data into meaningful insights to support storytelling, trend analysis, and decision-making; demonstrating strong **data cleaning, modeling, and visualization skills**.
 
 ---
 
