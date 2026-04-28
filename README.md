@@ -1,4 +1,3 @@
-<img width="1651" height="918" alt="WC1" src="https://github.com/user-attachments/assets/cceba88c-845b-4d47-b509-79b1bbcbeb00" />
 # FIFA-World-Cup-Analytics-Dashboard
 
 ## Overview
