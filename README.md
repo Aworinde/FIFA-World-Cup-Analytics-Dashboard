@@ -1,3 +1,4 @@
+<img width="1651" height="918" alt="WC1" src="https://github.com/user-attachments/assets/cceba88c-845b-4d47-b509-79b1bbcbeb00" />
 # FIFA-World-Cup-Analytics-Dashboard
 
 ## Overview
@@ -125,11 +126,13 @@ Performed using **Power Query**:
 ## Dashboard Preview
 
 ### 🔹 Overview Dashboard
-<img width="1484" height="834" alt="World Cup1" src="https://github.com/user-attachments/assets/b152746e-1a20-4d86-b300-c04a5e98a46d" />
+<img width="1651" height="918" alt="WC1" src="https://github.com/user-attachments/assets/3199a820-74b1-4507-93d6-708bfdc29ba5" />
+
 
 
 ### 🔹 Quadriennial Analysis Dashboard
-<img width="1482" height="828" alt="World Cup2" src="https://github.com/user-attachments/assets/5b36ee5e-2ebb-462c-a68a-33d5a780f306" />
+<img width="1607" height="899" alt="WC2" src="https://github.com/user-attachments/assets/4d6dc23c-2631-4245-a440-3fc8d0b2e312" />
+
 
 ---
 
