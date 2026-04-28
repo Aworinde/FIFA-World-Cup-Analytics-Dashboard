@@ -124,12 +124,12 @@ Performed using **Power Query**:
 
 ## Dashboard Preview
 
-### 🔹 Overview Dashboard
+### Overview Dashboard
 <img width="1651" height="918" alt="WC1" src="https://github.com/user-attachments/assets/3199a820-74b1-4507-93d6-708bfdc29ba5" />
 
 
 
-### 🔹 Quadriennial Analysis Dashboard
+### Quadriennial Analysis Dashboard
 <img width="1607" height="899" alt="WC2" src="https://github.com/user-attachments/assets/4d6dc23c-2631-4245-a440-3fc8d0b2e312" />
 
 
